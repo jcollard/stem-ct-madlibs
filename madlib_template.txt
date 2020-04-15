@@ -1,12 +1,13 @@
-NOUN [1]	_______________________		VERB ENDING IN "ING" [6]	_______________________
-
-VERB [2]	_______________________		VERB [7]	_______________________
-
-LIQUID [3]	_______________________		ADJECTIVE [8]	_______________________
-
-VERB ENDING IN "ED" [4]	_______________________		NOUN [9]	_______________________
-
-NOUN [5]	_______________________		ADJECTIVE [10]	_______________________
+NOUN [1]			
+VERB [2]
+LIQUID [3]
+VERB ENDING IN "ED" [4]
+NOUN [5]
+VERB ENDING IN "ING" [6]
+VERB [7]
+ADJECTIVE [8]
+NOUN [9]
+ADJECTIVE [10]
 
 Jack and Jill went up [1],
 To [2] a pail of [3];
