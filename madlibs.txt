@@ -1,0 +1,30 @@
+<html>
+
+	<body>
+		<p>NOUN [1]</p>
+		<p>VERB [2]</p>
+		<p>LIQUID [3]</p>
+		<p>VERB ENDING IN "ED" [4]</p>
+		<p>NOUN [5]</p>
+		<p>VERB ENDING IN "ING" [6]</p>
+		<p>VERB [7]</p>
+		<p>ADJECTIVE [8]</p>
+		<p>NOUN [9]</p>
+		<p>ADJECTIVE [10]</p>
+
+		<p>
+			Jack and Jill went up [1], <br>
+			To [2] a pail of [3]; <br>
+			Jack [4] down, and broke his [5], <br>
+			And Jill came [6] after.
+		</p>
+
+		<p>
+			Then up Jack got and off did [7], <br>
+			As [8] as he could caper, <br>
+			To old Dame Dob, who patched his [5] <br>
+			With [9] and [10] paper.
+		</p>
+	</body>
+
+</html>
